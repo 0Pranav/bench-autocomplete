@@ -1,4 +1,4 @@
-# ZSH Completions for (frappe bench)[https://github.com/frappe/bench]
+# ZSH Completions for [frappe bench](https://github.com/frappe/bench)
 
 ## Installation
 
